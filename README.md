@@ -1,7 +1,8 @@
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner del proyecto" />
+</p>
 
-# YF-Controls
-__The Art of automating Automation__
 
 
 
